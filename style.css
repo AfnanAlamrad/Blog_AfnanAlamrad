@@ -1,0 +1,62 @@
+body {
+    background-color: #121212;
+}
+
+#titile {
+    color: #F1C239;
+    font-family: 'Sansita', sans-serif;
+    font-size: 70px;
+    word-spacing: 3px;
+}
+
+#welcome {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin-top: -3px;
+}
+
+#blog-title {
+    font-family: 'Sansita', sans-serif;
+    color: white;
+}
+
+#card-1 {
+    background-color: #121212;
+}
+
+#dark-background {
+    background-color: #121212;
+}
+
+#btn-custom {
+    background-color: #F1C239;
+    color: black;
+}
+
+#date {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#content {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+#footer {
+    background-color: #1f1f1f;
+}
+
+#comments {
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+}
+
+#tags {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
